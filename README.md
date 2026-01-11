@@ -42,7 +42,8 @@ The dataset includes:
 - Sales Analysis & Business Insights  
 
 ## Dashboard Preview
-*(Add screenshot of your dashboard here)*  
+<img width="1903" height="782" alt="Screenshot 2026-01-11 111036" src="https://github.com/user-attachments/assets/fa677f59-a0ab-4b5e-ae37-44daf727d852" />
+ 
 
 ## Usage
 1. Download the Excel file  
