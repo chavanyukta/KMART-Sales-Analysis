@@ -35,4 +35,21 @@ The dataset includes:
 - **Store vs Online Sales:** Stores $10.9M (80%), Online $2.64M (20%)  
 - **Top State:** NSW ($4.94M)  
 
-## Skills Hi
+## Skills Highlighted
+- Excel: Formulas, Pivot Tables, Charts  
+- Data Cleaning & Organization  
+- Dashboard Design & Data Visualization  
+- Sales Analysis & Business Insights  
+
+## Dashboard Preview
+*(Add screenshot of your dashboard here)*  
+
+## Usage
+1. Download the Excel file  
+2. Open it in Microsoft Excel  
+3. Explore dashboards and pivot tables to analyze sales trends  
+
+## Author
+Yukta Chavan
+chavanyukta@gmail.com
+
